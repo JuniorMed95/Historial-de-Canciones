@@ -1,7 +1,7 @@
 :root {
     --primary-gradient: linear-gradient(135deg, #FF0000, #B80000);
     --dark-bg: rgba(0,0,0,0); 
-    --neo-shadow: 8px 8px 16px #050509, -8px -8px 16px #0f0f15;
+    --neo-shadow: 4px 4px 12px rgba(5,5,9,0.4), -4px -4px 12px rgba(15,15,21,0.4);
     --neo-border: 1px solid rgba(255, 255, 255, 0.05);
     --text-primary: rgba(255, 255, 255, 0.9);
 }
