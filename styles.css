@@ -1,6 +1,6 @@
 :root {
     --primary-gradient: linear-gradient(135deg, #FF0000, #B80000);
-    --dark-bg: #0a0a0f;
+    --dark-bg: rgba(0,0,0,0); 
     --neo-shadow: 8px 8px 16px #050509, -8px -8px 16px #0f0f15;
     --neo-border: 1px solid rgba(255, 255, 255, 0.05);
     --text-primary: rgba(255, 255, 255, 0.9);
